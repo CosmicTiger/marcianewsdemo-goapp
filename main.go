@@ -198,3 +198,5 @@ func main() {
 }
 
 // API_KEY = 9a11f05a76df4bf78d36729abea30728
+// Command to execute this application
+// go run main.go -apikey=9a11f05a76df4bf78d36729abea30728

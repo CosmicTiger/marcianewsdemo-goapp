@@ -1,1 +1,1 @@
-web; bin/news-demo -apikey $9a11f05a76df4bf78d36729abea30728
+web; bin/news-demo -apikey $NEWS_API_KEY

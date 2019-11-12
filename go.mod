@@ -1,3 +1,3 @@
 module github.com/CosmicTiger/marcianewsdemo-goapp
 
-go 1.13.4
+go 1.12.12
